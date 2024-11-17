@@ -15,14 +15,46 @@ I am an undergraduate student pursuing a B.Tech in Information Technology at Kal
 ---
 
 ## 💻 Technical Skills  
-**Programming Languages:** JavaScript, Java, C, C++, R, SQL  
-**Frameworks & Libraries:** React.js, Node.js, Express.js, Redux, Bootstrap  
-**Web Development:** HTML5, CSS, RESTful APIs, Responsive Design  
-**Databases:** MongoDB, MySQL  
-**Development Tools:** Git, GitHub, Postman, Render  
-**Core Competencies:** Data Structures, Algorithms, OOP, Full-Stack Development  
-**Operating Systems:** Linux  
 
+### Programming Languages  
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+
+### Frameworks & Libraries  
+![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Web Development  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST-02569B?style=flat-square&logo=api&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-007ACC?style=flat-square&logo=responsive&logoColor=white)
+
+### Databases  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Development Tools  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+### Core Competencies  
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-007ACC?style=flat-square&logo=code&logoColor=white)
+![Algorithms](https://img.shields.io/badge/-Algorithms-7952B3?style=flat-square&logo=algorithm&logoColor=white)
+![Object-Oriented Programming](https://img.shields.io/badge/-OOP-1572B6?style=flat-square&logo=object&logoColor=white)
+![Full Stack Development](https://img.shields.io/badge/-Full%20Stack%20Development-61DAFB?style=flat-square&logo=development&logoColor=black)
+
+### Operating Systems  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ---
 
 ## 🚀 Projects  
