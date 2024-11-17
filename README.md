@@ -115,7 +115,8 @@ Diploma in Computer Science and Technology | **GPA: 8.6** (August 2019 – June 
 ---
 
 ## 📊 GitHub Stats  
-![Sahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahinDafader&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahinDafader&layout=compact&theme=radical)  
+![Sahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahinDafader&show_icons=true&theme=radical)
 
+## 📈 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahinDafader&layout=compact&theme=radical)
 ---
