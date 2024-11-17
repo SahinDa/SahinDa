@@ -4,15 +4,6 @@
 
 I am an undergraduate student pursuing a B.Tech in Information Technology at Kalyani Government Engineering College. With a strong foundation in **data structures, algorithms, and object-oriented programming**, I specialize in full-stack web development and creating scalable, user-centric solutions.  
 
----
-
-## 👨‍💻 Professional Summary  
-- Skilled in **JavaScript, React.js, Node.js**, and modern web technologies.  
-- Solved over **1,400 coding challenges** across platforms like LeetCode and GeeksforGeeks.  
-- Certified in **Java Full Stack Development** with a score of 93.5%.  
-- Passionate about building impactful applications that enhance user experience.  
-
----
 
 ## 💻 Technical Skills  
 
