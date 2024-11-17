@@ -91,11 +91,14 @@ Diploma in Computer Science and Technology | **GPA: 8.6** (August 2019 – June 
 ---
 
 ## 📫 Connect With Me  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SahinDafader)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahin-dafader-384670203/)  
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-05CC47?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sahin21/)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sahin_D21/)  
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sahindafader1919)  
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SahinDafader)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahin-dafader-384670203/)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-05CC47?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sahin21/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sahin_D21/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sahindafader1919)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahin_21)
+
 
 ---
 
