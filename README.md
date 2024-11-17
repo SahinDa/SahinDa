@@ -57,47 +57,6 @@ I am an undergraduate student pursuing a B.Tech in Information Technology at Kal
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ---
 
-## 🚀 Projects  
-### [X-MERCE](https://github.com/SahinDafader/X-MERCE)  
-**Tech Stack:** React.js, Redux, Node.js, Express.js, MongoDB  
-- Built a responsive e-commerce platform with an admin dashboard, secure login, and payment integration.  
-- Achieved a **30% increase in user retention** through an enhanced shopping experience.  
-
-### [ShareX](https://github.com/SahinDafader/ShareX)  
-**Tech Stack:** HTML, Bootstrap, EJS, Express.js, MongoDB  
-- Developed a CRUD-enabled blogging platform, boosting **user engagement by 40%**.  
-- Improved user interaction with an average session duration of over **5 minutes**.  
-
-### [Library Management System](https://github.com/SahinDafader/Library-Management-System)  
-**Tech Stack:** C++  
-- Created a CLI-based system for managing library records, increasing data retrieval speed by **50%**.  
-
-### [🛒 Shop Management System](https://github.com/SahinDa/Shop-Management-System)
-**Tech Stack:** C
-
-- Developed an inventory management system with a command-line interface.
-- Features two sections:
-- Owner Section: Add, delete, show, and search products.
-- Customer Section: View products, search items, make purchases, and generate billing information.
-- Improved stock accuracy by **20%**, enhancing overall browsing efficiency.
-- Increased product listing accuracy and reduced manual errors by leveraging efficient file handling.
-
----
-
-## 🎓 Education  
-**Kalyani Government Engineering College**  
-B.Tech in Information Technology | **CGPA: 8.37** (Expected June 2025)  
-
-**Central Calcutta Polytechnic**  
-Diploma in Computer Science and Technology | **GPA: 8.6** (August 2019 – June 2022)  
-
----
-
-## 🏆 Achievements  
-- Solved **800+ problems** on GeeksforGeeks and **750+ challenges** on LeetCode.  
-- Achieved **5★ in C++ on HackerRank** and reached the **Ninja Dominator League** on CodeStudio.  
-- Maintained a coding streak of over **400 days** on LeetCode and GeeksforGeeks.  
-
 ---
 
 ## 📫 Connect With Me  
@@ -110,7 +69,7 @@ Diploma in Computer Science and Technology | **GPA: 8.6** (August 2019 – June 
 [![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahin_21)
 [![CodeStudio](https://img.shields.io/badge/-CodeStudio-orange?style=flat-square)](https://www.naukri.com/code360/profile/4c7e5b6e-d9c6-42a1-a263-49588ce06362) 
 [![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahin_21) 
-
+---
 
 ---
 ## 📊 GitHub Stats  
