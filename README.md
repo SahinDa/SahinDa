@@ -72,6 +72,16 @@ I am an undergraduate student pursuing a B.Tech in Information Technology at Kal
 **Tech Stack:** C++  
 - Created a CLI-based system for managing library records, increasing data retrieval speed by **50%**.  
 
+### [🛒 Shop Management System](https://github.com/SahinDa/Shop-Management-System)
+**Tech Stack:** C
+
+- Developed an inventory management system with a command-line interface.
+- Features two sections:
+- Owner Section: Add, delete, show, and search products.
+- Customer Section: View products, search items, make purchases, and generate billing information.
+- Improved stock accuracy by **20%**, enhancing overall browsing efficiency.
+- Increased product listing accuracy and reduced manual errors by leveraging efficient file handling.
+
 ---
 
 ## 🎓 Education  
