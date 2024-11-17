@@ -98,6 +98,8 @@ Diploma in Computer Science and Technology | **GPA: 8.6** (August 2019 – June 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sahin_D21/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sahindafader1919)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahin_21)
+[![CodeStudio](https://img.shields.io/badge/-CodeStudio-orange?style=flat-square)](https://www.naukri.com/code360/profile/4c7e5b6e-d9c6-42a1-a263-49588ce06362) 
+[![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahin_21) 
 
 
 ---
@@ -107,7 +109,3 @@ Diploma in Computer Science and Technology | **GPA: 8.6** (August 2019 – June 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahinDafader&layout=compact&theme=radical)  
 
 ---
-
-### 🔗 Other Platforms  
-[![CodeStudio](https://img.shields.io/badge/-CodeStudio-orange?style=flat-square)](https://www.naukri.com/code360/profile/4c7e5b6e-d9c6-42a1-a263-49588ce06362)  
-[![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahin_21)  
