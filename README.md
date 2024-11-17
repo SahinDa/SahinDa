@@ -1,8 +1,17 @@
 # Hello, I'm Sahin Dafader! 👋  
 
-**Motivated Software Development Engineer | Full-Stack Developer | Problem Solver**  
+I’m a **final-year B.Tech student** specializing in **Information Technology** (Expected June 2025), with a strong passion for **Full-Stack Development** and **software engineering**. I have hands-on experience in both **frontend** and **backend** development, primarily using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). 
 
-I am an undergraduate student pursuing a B.Tech in Information Technology at Kalyani Government Engineering College. With a strong foundation in **data structures, algorithms, and object-oriented programming**, I specialize in full-stack web development and creating scalable, user-centric solutions.  
+With expertise in **React Development**, I’ve built interactive, user-centric web applications, and with **backend technologies**, I am proficient in developing scalable RESTful APIs, managing databases, and integrating with various services.
+
+I’ve solved over **770+ DSA problems** on **GeeksforGeeks** and **700+ problems** on **LeetCode**, which has given me a solid foundation in **data structures** and **algorithms**. I also hold a **5-star rating** in **C++** on **HackerRank** and am part of the **Ninja Dominator League** on **CodeStudio**.
+
+In addition to my technical skills, I’ve recently completed a **Java Full Stack Development** training program at **Wipro**, where I developed expertise in building scalable applications. I have worked on notable projects like **X-MERCE** (an e-commerce platform) and **ShareX** (a blogging platform), which demonstrate my ability to create dynamic and responsive full-stack solutions.
+
+I am committed to continuous learning and have earned certifications in **Data Structures & Algorithms**, **Web Development**, and **API Fundamentals**. I’m excited to connect with professionals and explore opportunities in **software development** where I can leverage my **MERN stack** and **Full-Stack Development** skills to drive impactful solutions.
+
+Let’s collaborate and create something amazing! 💻🚀
+
 
 
 ## 💻 Technical Skills  
