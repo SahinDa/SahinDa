@@ -68,7 +68,6 @@ Let’s collaborate and create something amazing! 💻🚀
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sahindafader1919)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahin_21)
 [![CodeStudio](https://img.shields.io/badge/-CodeStudio-orange?style=flat-square)](https://www.naukri.com/code360/profile/4c7e5b6e-d9c6-42a1-a263-49588ce06362) 
-[![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahin_21) 
 ---
 
 ---
