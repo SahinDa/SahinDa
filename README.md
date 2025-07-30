@@ -108,15 +108,14 @@ I’m a passionate full-stack developer with hands-on experience building scalab
 ---
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-metrics.vercel.app/api?username=SahinDa&template=classic&base.indepth=true&base.repositories=100&config.timezone=Asia%2FKolkata" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-metrics.vercel.app/api/achievements?username=SahinDa&config=achievements.threshold=C&config.display=compact&config.timezone=Asia%2FKolkata" width="95%" />
-</p>
-
-<p align="center">
   <img src="https://github-metrics.vercel.app/api/activity?username=SahinDa&config.timezone=Asia%2FKolkata" width="95%" />
 </p>
+
 
