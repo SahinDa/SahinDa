@@ -23,4 +23,4 @@ jobs:
           plugin_languages: yes
           plugin_followup: yes
           plugin_lines: yes
-          # plugin_achievements: yes — 🔴 DISABLED due to GitHub projects (classic) deprecation issue
+          # plugin_achievements: yes ← ❌ DISABLED due to GitHub Projects deprecation
