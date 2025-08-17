@@ -108,12 +108,11 @@ I’m a passionate full-stack developer with hands-on experience building scalab
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-metrics.vercel.app/api?username=SahinDa&template=classic&base.indepth=true&base.repositories=100&config.timezone=Asia%2FKolkata" width="95%"/>
-</p>
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-metrics.vercel.app/api/activity?username=SahinDa&config.timezone=Asia%2FKolkata" width="95%" />
-</p>
+[![SahinDa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahinDa&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahinDa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
