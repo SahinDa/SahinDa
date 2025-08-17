@@ -108,8 +108,6 @@ I’m a passionate full-stack developer with hands-on experience building scalab
 ---
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 [![SahinDa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahinDa&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahinDa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
