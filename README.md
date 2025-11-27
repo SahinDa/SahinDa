@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 B.Tech in Information Technology (2025) - Kalyani Government Engineering College<br/>
-💼 Software Developer Intern @ ARC (PPO Offered) | Wipro Java Full Stack Trainee<br/>
+💼 Software Engineer @ARC Document Solutions | Wipro Java Full Stack Trainee<br/>
 📈 MERN Stack | C++ | DSA Enthusiast | System Design Learner
 </p>
 
