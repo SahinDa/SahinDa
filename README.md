@@ -12,7 +12,7 @@
 
 I’m a passionate full-stack developer with hands-on experience building scalable and performant applications using the **MERN stack**. I specialize in both frontend and backend development and have strong fundamentals in **Data Structures & Algorithms** — solving **1800+ problems** across LeetCode, GFG, and other platforms.
 
-- 🔧 Currently interning at [ARC Document Solutions](https://www.e-arc.com/)
+- 🔧 Software Engineer at [ARC Document Solutions](https://www.e-arc.com/)
 - 🎯 Migrated monolithic apps to **NestJS**
 - 🔐 Built secure, real-time features with **WebSockets** & **JWT**
 - 🐳 Dockerized PostgreSQL backends for improved performance
