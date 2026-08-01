@@ -16,7 +16,7 @@ I’m a passionate full-stack developer with hands-on experience building scalab
 - 🎯 Migrated monolithic apps to **NestJS**
 - 🔐 Built secure, real-time features with **WebSockets** & **JWT**
 - 🐳 Dockerized PostgreSQL backends for improved performance
-- 🏆 PPO offered for impactful work
+  
 
 ---
 
