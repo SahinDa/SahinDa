@@ -106,11 +106,5 @@ I’m a passionate full-stack developer with hands-on experience building scalab
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sahindafader1919)
 
 ---
-### 📊 GitHub Stats
-
-[![SahinDa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahinDa&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahinDa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
