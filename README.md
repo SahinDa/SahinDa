@@ -74,8 +74,7 @@ I’m a passionate full-stack developer with hands-on experience building scalab
   _EJS, Express.js, MongoDB_  
   [Live Site](https://sharex-2p5v.onrender.com)
 
-- **📺 TweetTube (In Progress)** – Video + microblogging platform backend with scalable data models  
-  _Node.js, Express.js, MongoDB_
+- **📺 TweetTube ** –Backend for a hybrid video-sharing + microblogging platform. Handles user auth, video upload/streaming, tweet-style posts, likes/comments, and scalable data modeling with MongoDB.
 
 ---
 
