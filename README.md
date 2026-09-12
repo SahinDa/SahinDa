@@ -75,18 +75,74 @@ I'm a backend-focused software engineer with 1+ year of production experience ow
 **Java Full Stack Training | Wipro | May 2024 – October 2024**
 - Completed intensive Java Full Stack training, building applications with Java and backend technologies while ranking in the top 5% of participants
 ---
-### 💼 Projects
+### 🏗️ Projects
 
-- **🛒 X-MERCE** – Full-featured e-commerce app with admin dashboard and Stripe integration  
-  _React, Redux, Node.js, MongoDB, Express, Stripe_  
-  [Live Site](https://x-merce.onrender.com) | [GitHub](https://github.com/SahinDa/backend)
+**AssessPro** 
+*Multi-tenant SaaS assessment platform for competitive mock tests* — *Ongoing* </br>
+`React.js` `Zustand` `shadcn/ui` `TypeScript` `Node.js` `NestJS` `Redis` `PostgreSQL` `Razorpay`
 
-- **📝 ShareX** – Blogging platform with rich-text editing and MongoDB filtering  
-  _EJS, Express.js, MongoDB_  
-  [Live Site](https://sharex-2p5v.onrender.com)
+- Architected the backend and database for a multi-tenant SaaS assessment platform, enforcing strict tenant isolation and role-based access across Admin, Organization, and Student workspaces
+- Designed a Redis-backed autosave system for the live test engine, persisting in-progress answers at one-minute intervals to protect against connection interruptions while minimizing high-frequency PostgreSQL writes
+- Built first-attempt leaderboard ranking, attempt-history analytics, and automated transactional email notifications; integrated Razorpay for tiered subscription billing
+- Developing the React frontend with cross-organization switching and an interactive test-taking interface
 
-- **📺 TweetTube ** –Backend for a hybrid video-sharing + microblogging platform. Handles user auth, video upload/streaming, tweet-style posts, likes/comments, and scalable data modeling with MongoDB.
+---
 
+**RAGify**
+*End-to-end RAG pipeline for document Q&A* — *Aug 2026* </br>
+`Python` `FastAPI` `Retrieval-Augmented Generation (RAG)` `ChromaDB` `ChromaDB` `NVIDIA NIM` `LLM Integration` `REST APIs`
+
+Built an end-to-end Retrieval-Augmented Generation (RAG) system from scratch for document question-answering, covering the full pipeline from ingestion to response generation.
+
+- Built a document ingestion and chunking pipeline to process raw documents into retrievable segments
+- Generated semantic embeddings and implemented vector search using ChromaDB for fast, relevant retrieval
+- Streamed context-grounded LLM responses through a FastAPI backend, using NVIDIA NIM for LLM inference — ensuring answers stay grounded in retrieved document context rather than the model's general knowledge
+
+---
+
+**TeleClone** *(Paid Client Project)*
+*Full-stack messaging and content management platform* — *Jun 2025 – Jul 2025* </br>
+`React.js` `Node.js` `Express.js` `MySQL` `Material UI`
+
+- Delivered a full-stack messaging and content management platform, developing REST APIs and an admin-facing React frontend covering authentication, contact management, and multi-type content handling
+- Implemented MySQL transactions, connection pooling, and rollback handling; used batch inserts (up to 10,000 records) and cache invalidation to improve reliability and bulk-processing performance
+- Built paginated/searchable data tables and bulk CSV/image upload workflows with validation, previews, and deletion operations
+
+---
+
+**TweetTube (Backend)**
+*Backend for a video streaming + microblogging platform* </br>
+`Node.js` `Express.js` `MongoDB` `Mongoose`
+
+Designed and built the backend architecture for a full-fledged video streaming platform integrated with microblogging (tweet) functionality, supporting core features like video sharing, tweeting, liking, commenting, and subscriptions.
+
+- Designed a scalable MongoDB schema with clear relational mapping across Users, Videos, Comments, Tweets, Likes, Playlists, and Subscriptions, supporting complex feature interactions like polymorphic likes (on videos, comments, and tweets)
+- Modeled one-to-many relationships between users and their videos, tweets, comments, likes, and subscriptions, along with a Users collection storing credentials, profile data, watch history, and auth tokens
+- Built a Playlists feature allowing users to group and organize videos, and a Subscriptions model to track user-to-channel following relationships
+- Built REST APIs using Node.js and Express.js, designed for integration with frontend and mobile clients
+
+<details>
+<summary><strong>📦 Older Projects</strong></summary>
+
+**X-MERCE**
+*Full-stack e-commerce platform built during college* </br>
+`React.js` `Redux` `Node.js` `MongoDB` `Express`
+
+A responsive e-commerce application with an admin dashboard, secure user authentication, and payment integration, focused on improving user retention through a smooth shopping experience. This project was my entry point into full-stack development, combining a React/Redux frontend with a Node.js/MongoDB backend. — [Live Site](https://x-merce.onrender.com)
+
+**Library Management System**
+*Two-role console application built during Diploma* </br>
+`C++`
+
+A file-based system with separate owner and user roles — the owner manages book and user records, while users can sign up, log in, and manage their own accounts. Built using file handling for persistent data storage, applying core OOP concepts learned early in my programming journey.
+
+**Shop Management System**
+*Console-based inventory and billing system* </br>
+`C`
+
+A file-based application with separate owner and customer modules — the owner side handles adding, updating, and searching inventory, while the customer side supports browsing products and billing. One of my first real programs, written while learning core C fundamentals.
+
+</details>
 ---
 
 ### 📜 Certifications
