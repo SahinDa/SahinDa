@@ -163,16 +163,6 @@ I care about strong fundamentals — data structures, algorithms, and the instin
 - ✅ API Fundamentals – Postman  
 - ✅ Cloud Bootcamp – Google x GFG
 
----
-
-### 🏆 Achievements
-
-- 🧠 Solved **1800+ DSA problems**
-- 🥇 Knight Rank on LeetCode (Rating: 1875+)
-- ⭐ 5★ C++ – HackerRank
-- 🥷 Ninja Dominator League – CodeStudio
-- 🏆 Top 5% in Wipro Java Full Stack Training
-- ✅ PPO from ARC
 
 ---
 
