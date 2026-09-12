@@ -64,7 +64,15 @@ I'm a backend-focused software engineer with 1+ year of production experience ow
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+### 💼 Work Experience
+**Software Engineer (Intern → Full-Time) | ARC Document Solutions | Mar 2025 – Present**
+- Developed and maintained backend REST APIs powering a shared platform across iOS, Android, and web/cloud clients, covering major ARC Facilities modules including Folders & Files, Equipment, Forms, Document PIN, Campus, Accounts, and Compliance
+- Serve as a primary backend engineer, owning core services including ZIP processing, import/export, file uploads, and document viewing; mentor a junior engineer and intern
+- Contributed to an internal administration and subscription-control system governing module-level access restrictions, along with delegated administration supporting scoped permissions
+- Built a centralized API logging service and an enqueue-based background job pipeline that prepares data for Elasticsearch indexing through a Python service, with Node.js as the sole layer responsible for database access
+- Led the migration of legacy LoopBack services to NestJS microservices, improving maintainability, security, and system reliability
 
+---
 ### 💼 Projects
 
 - **🛒 X-MERCE** – Full-featured e-commerce app with admin dashboard and Stripe integration  
