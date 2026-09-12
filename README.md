@@ -78,7 +78,7 @@ I'm a backend-focused software engineer with 1+ year of production experience ow
 ### 🏗️ Projects
 
 **AssessPro** 
-*Multi-tenant SaaS assessment platform for competitive mock tests* — *Ongoing* </br>
+*Multi-tenant SaaS assessment platform for competitive mock tests* — *June 2026 - Ongoing* </br>
 `React.js` `Zustand` `shadcn/ui` `TypeScript` `Node.js` `NestJS` `Redis` `PostgreSQL` `Razorpay`
 
 - Architected the backend and database for a multi-tenant SaaS assessment platform, enforcing strict tenant isolation and role-based access across Admin, Organization, and Student workspaces
@@ -89,7 +89,7 @@ I'm a backend-focused software engineer with 1+ year of production experience ow
 ---
 
 **RAGify**
-*End-to-end RAG pipeline for document Q&A* — *Aug 2026* </br>
+*End-to-end RAG pipeline for document Q&A* — *Aug 2026 - Ongoing* </br>
 `Python` `FastAPI` `Retrieval-Augmented Generation (RAG)` `ChromaDB` `ChromaDB` `NVIDIA NIM` `LLM Integration` `REST APIs`
 
 Built an end-to-end Retrieval-Augmented Generation (RAG) system from scratch for document question-answering, covering the full pipeline from ingestion to response generation.
@@ -111,7 +111,7 @@ Built an end-to-end Retrieval-Augmented Generation (RAG) system from scratch for
 ---
 
 **TweetTube (Backend)**
-*Backend for a video streaming + microblogging platform* </br>
+*Backend for a video streaming + microblogging platform* - *Jan 2025 – Nov 2025*</br>
 `Node.js` `Express.js` `MongoDB` `Mongoose`
 
 Designed and built the backend architecture for a full-fledged video streaming platform integrated with microblogging (tweet) functionality, supporting core features like video sharing, tweeting, liking, commenting, and subscriptions.
@@ -125,7 +125,7 @@ Designed and built the backend architecture for a full-fledged video streaming p
 <summary><strong>📦 Older Projects</strong></summary>
 
 **X-MERCE**
-*Full-stack e-commerce platform built during college* </br>
+*Full-stack e-commerce platform built during college* - *Jul 2023 – Oct 2023*</br>
 `React.js` `Redux` `Node.js` `MongoDB` `Express`
 
 A responsive e-commerce application with an admin dashboard, secure user authentication, and payment integration, focused on improving user retention through a smooth shopping experience. This project was my entry point into full-stack development, combining a React/Redux frontend with a Node.js/MongoDB backend. — [Live Site](https://x-merce.onrender.com)
