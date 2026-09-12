@@ -143,8 +143,19 @@ A file-based system with separate owner and user roles — the owner manages boo
 A file-based application with separate owner and customer modules — the owner side handles adding, updating, and searching inventory, while the customer side supports browsing products and billing. One of my first real programs, written while learning core C fundamentals.
 
 </details>
----
 
+
+### 📊 Problem Solving
+
+I care about strong fundamentals — data structures, algorithms, and the instinct to spot the right approach quickly. Here's where that shows up:
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight_1875-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SahinCodes_21/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sahin21/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5★_C%2B%2B-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sahindafader1919)
+[![Problems Solved](https://img.shields.io/badge/DSA_Problems_Solved-2000%2B-blue?style=for-the-badge)]()
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/SahinCodes_21?theme=dark&font=Baloo2&ext=heatmap)
+---
 ### 📜 Certifications
 
 - ✅ Web Development Bootcamp – Udemy  
