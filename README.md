@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sahin Dafader </h1>
 
-<p align="center">
-🎓 B.Tech in Information Technology (2025) - Kalyani Government Engineering College<br/>
-💼 Software Engineer @ARC Document Solutions | Wipro Java Full Stack Trainee<br/>
-📈 MERN Stack | C++ | DSA Enthusiast | System Design Learner
-</p> 
+<div align="center">
+
+🎓 B.Tech in Information Technology (2025) — Kalyani Government Engineering College <br/>
+💼 Software Engineer @ARC Document Solutions | Ex-Wipro Java Full Stack Trainee <br/>
+🛠️ Full-Stack Development · System Design & Architecture | 🤖 AI/RAG Exploration | 🧠 DSA Enthusiast
+
+</div>
 
 ---
 
