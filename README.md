@@ -10,12 +10,13 @@
 
 ### 🚀 About Me
 
-I’m a passionate full-stack developer with hands-on experience building scalable and performant applications using the **MERN stack**. I specialize in both frontend and backend development and have strong fundamentals in **Data Structures & Algorithms** — solving **1800+ problems** across LeetCode, GFG, and other platforms.
-
-- 🔧 Software Engineer at [ARC Document Solutions](https://www.e-arc.com/)
-- 🎯 Migrated monolithic apps to **NestJS**
-- 🔐 Built secure, real-time features with **WebSockets** & **JWT**
-- 🐳 Dockerized PostgreSQL backends for improved performance
+Turning complex backend problems into clean, scalable systems.<br/>
+I'm a backend-focused software engineer with 1+ year of production experience owning core services for a multi-platform SaaS product at ARC Document Solutions, working across Node.js, NestJS, and PostgreSQL. I'm comfortable across the stack — React on the frontend, and hands-on with Python/FastAPI for AI/RAG systems. <br/>
+- I like owning systems end-to-end — from database design and API architecture to deployment — rather than just shipping isolated features
+- Strong DSA and problem-solving foundation, sharpened through consistent competitive programming and real-world system design challenges
+- Currently exploring Retrieval-Augmented Generation (RAG), LLM integration, and agentic / multi-agent systems
+- Happy to talk architecture, system design, backend, frontend, or DSA — always up for a good technical conversation
+- Open to Full-Stack, Backend, AI-native Full-Stack/Backend, or SDE roles
   
 
 ---
